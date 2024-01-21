@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "502970115138",
+    "firebase_url": "https://cryptoapp-8734b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cryptoapp-8734b",
+    "storage_bucket": "cryptoapp-8734b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502970115138:android:6ccb7ad99a220c95d879db",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_IjGHdmcIplOFCwHoiBdI3uxyC02eH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502970115138:android:2f2cd8ee2755d5b3d879db",
+        "android_client_info": {
+          "package_name": "com.example.projectuas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_IjGHdmcIplOFCwHoiBdI3uxyC02eH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
