@@ -155,7 +155,10 @@ class _ScreenFirstState extends State<ScreenFirst> {
                   return Dismissible(
                     key: Key(cryptoDataList[index]['cryptoName']!),
                     onDismissed: (direction) {
-                      removeCryptoData(index);
+                      // removeCryptoData(index);
+                      _dataref
+                          .child(cryptoDataList[index]['cryptoName']!)
+                          .remove();
                     },
                     background: Container(
                       color: Colors.red,
